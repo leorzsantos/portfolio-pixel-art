@@ -1,7 +1,7 @@
 .main-a{
     display: inline-flex;
     align-items: center;
-    color: #fff;
+    color: #000;
     font-size: 20px;
     font-family: "Fira code", Arial, Helvetica, sans-serif;
     font-weight: 500;
@@ -11,12 +11,13 @@
 
 .main-a::before{
     content: "";
-    background-color: #F25A70;
+    background-color: #5dabc1;
+    box-shadow: 2px 2px 0px #000;
     width: 10px;
     height: 10px;
     margin-right: 10px;
 }
 
 .main-a:hover{
-    color: #000000;
+    color: #FFF;
 }
