@@ -1,0 +1,16 @@
+.skill-list {
+    display: flex;
+    font-size: 25px;
+    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
+    color: #FFF;
+}
+
+.skill-list .icon {
+    margin-right: 25px;
+}
+
+.skill-list .right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
