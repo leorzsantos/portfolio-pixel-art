@@ -3,10 +3,16 @@
     font-size: 25px;
     font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
     color: #FFF;
+    align-items: center;
 }
 
 .skill-list .icon {
     margin-right: 25px;
+    width: 90px;
+}
+
+.skill-list .title {
+    margin-bottom: 10px;
 }
 
 .skill-list .right {
