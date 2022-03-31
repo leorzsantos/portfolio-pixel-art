@@ -1,11 +1,11 @@
-.banner-skills {
+.main-section {
     background-color: #5dabc1;
     border-bottom: 10px solid #000;
     padding-top: 50px;
     padding-bottom: 100px;
 }
 
-.banner-skills.-projetos {
+.main-section.-projetos {
     background-color: #5b2d27;
     border-bottom: 10px solid #da1f44;
 }
