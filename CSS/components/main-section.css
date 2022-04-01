@@ -7,5 +7,15 @@
 
 .main-section.-projetos {
     background-color: #5b2d27;
-    border-bottom: 10px solid #da1f44;
+    border-bottom: 10px solid #000;
+}
+
+.main-section.-about {
+    background-color: #183946;
+}
+
+.main-section.-about .main-text {
+    width: auto;
+    height: auto;
+    margin: 0px 80px;
 }
