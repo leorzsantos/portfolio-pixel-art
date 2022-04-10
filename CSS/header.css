@@ -2,13 +2,19 @@
     display: flex;
     justify-content: space-between;
     background-color: #f3dc4d;
-    border-bottom: 10px solid black;
-    padding: 10px 20px
+    border-bottom: 7.5px solid black;
+    padding: 10px 20px;
+    position: fixed;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
 }
 
 .main-header .logo {
         border: 5px solid #5dabc1;
-        border-radius: 10%;
+        box-shadow: 2px 2px 0px #000;
+        border-radius: 5%;
         height: 50px;
         width: 50px;
     }
